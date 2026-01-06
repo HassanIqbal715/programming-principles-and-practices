@@ -1,1 +1,1 @@
-drills/chapter_*/*[!.cpp]
+drills/chapter_*/*.o
